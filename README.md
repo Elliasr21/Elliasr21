@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Elliasr21
+- 👋 Hi, I’m @Elliasr21. I am a student at University of Mindanao under Bachelors of Science in Computer Science
 - 👀 I’m interested in anything!
-- 🌱 I’m currently learning health science and programming, at the same time.
+- 🌱 I’m currently learning health science and programming, at the same time
 - 💞️ I’m still a newbie. Please do take care of me, jk.
 - 📫 How to reach me ... is there a message thingy here?
 
